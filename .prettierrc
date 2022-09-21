@@ -1,0 +1,12 @@
+{
+	"useTabs": true,
+	"singleQuote": true,
+	"trailingComma": "es5",
+	"printWidth": 70,
+	"arrowParens": "avoid",
+	"proseWrap": "always",
+	"pluginSearchDirs": ["."],
+	"overrides": [
+		{ "files": "*.svelte", "options": { "parser": "svelte" } }
+	]
+}
